@@ -2,6 +2,9 @@
 
 Proyek mandiri untuk visualisasi tekno-ekonomi, kelayakan finansial, dan proposal investasi lini produksi PCO (*Precipitated/Processed Chemical Oil* / turunan CPO).
 
+🌐 **Live Deployed Application:**  
+👉 **[https://mforreal.github.io/PCO/](https://mforreal.github.io/PCO/)**
+
 ---
 
 ## 🚀 Cara Menjalankan
