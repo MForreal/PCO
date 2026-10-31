@@ -1,0 +1,20 @@
+================================================================================
+   PANDUAN PRAKTIS DASHBOARD PCO (PROPOSAL INVESTASI & TEKNO-EKONOMI)
+================================================================================
+
+Dashboard ini merupakan alat visualisasi tekno-ekonomi mandiri untuk mempresentasikan
+kelayakan investasi lini produksi PCO (Precipitated / Processed Chemical Oil).
+
+Langkah menjalankan:
+1. Cukup klik ganda (double-click) pada file:
+      👉 JALANKAN_DASHBOARD_PCO.bat 👈
+   atau langsung klik ganda pada file "index.html".
+2. Halaman presentasi interaktif akan langsung terbuka di browser Anda (Chrome / Edge).
+3. Tidak memerlukan instalasi Node.js atau server web tambahan.
+
+File-file utama di folder ini:
+- index.html                               : Slide 1 - Ringkasan Eksekutif & Infografis Proposal Investasi
+- kerjasama.html / slide2.html             : Slide 2 - Skema Kerjasama, Bagi Hasil, & Simulasi Dividen
+- Simulasi_Investasi_dan_Produksi_PCO.xlsx : Model perhitungan Excel lengkap 6 sheet
+- CPO.txt                                  : Catatan parameter input dan asumsi dasar
+================================================================================

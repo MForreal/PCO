@@ -1,0 +1,8 @@
+1. Ubah total biaya 4 mesin menjadi 3,6 Milyar
+2. Ubah biaya pembangunan Gudang menjadi 1,4 Milyar
+3. Ubah kapasitas sebelum yield menjadi 30 To/ hari
+4. Ubah Yield produksi menjadi 70%
+5. Ubah produk jadi setelah yield menjadi 20 ton/ hari
+6. Ubah jam operasi hari menjadi 21 jam
+7. Ubah row mat efektif menjadi 2000
+8. Ubah biaya produksi menjadi 2000
